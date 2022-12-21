@@ -1,21 +1,18 @@
-# My-World
-
-
+# Kotlin-World
+💡 kotlin과 친해지기
 <br/>
 
 ## 개발환경
 🚀 Backend
-* Java (11)
-* Kotlin
-* JPA (1.5.20)
-* Spring Boot (2.5.2)
-* Gradle (6.8.3)
-* MySQL (8.0)
+* Java (17)
+* Kotlin (1.6.21)
+* Spring Boot (2.7.6)
 
 <br/>
 
 🚀 Frontend
-* React 
+* Vue (2.5.2)
+* Ant Design Vue
 
 <br/>
 
